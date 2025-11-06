@@ -1,0 +1,11 @@
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Domain.Core\bin\Debug\net9.0\Poe.Domain.Core.deps.json
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Domain.Core\bin\Debug\net9.0\Poe.Domain.Core.dll
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Domain.Core\bin\Debug\net9.0\Poe.Domain.Core.pdb
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Domain.Core\obj\Debug\net9.0\Poe.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Domain.Core\obj\Debug\net9.0\Poe.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Domain.Core\obj\Debug\net9.0\Poe.Domain.Core.AssemblyInfo.cs
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Domain.Core\obj\Debug\net9.0\Poe.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Domain.Core\obj\Debug\net9.0\Poe.Domain.Core.dll
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Domain.Core\obj\Debug\net9.0\refint\Poe.Domain.Core.dll
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Domain.Core\obj\Debug\net9.0\Poe.Domain.Core.pdb
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Domain.Core\obj\Debug\net9.0\ref\Poe.Domain.Core.dll

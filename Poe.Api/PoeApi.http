@@ -1,0 +1,6 @@
+@PoeApi_HostAddress = http://localhost:5101
+
+GET {{PoeApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

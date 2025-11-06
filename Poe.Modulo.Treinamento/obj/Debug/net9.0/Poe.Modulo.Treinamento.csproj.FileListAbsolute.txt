@@ -1,0 +1,11 @@
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.Treinamento\bin\Debug\net9.0\Poe.Modulo.Treinamento.deps.json
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.Treinamento\bin\Debug\net9.0\Poe.Modulo.Treinamento.dll
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.Treinamento\bin\Debug\net9.0\Poe.Modulo.Treinamento.pdb
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.Treinamento\obj\Debug\net9.0\Poe.Modulo.Treinamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.Treinamento\obj\Debug\net9.0\Poe.Modulo.Treinamento.AssemblyInfoInputs.cache
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.Treinamento\obj\Debug\net9.0\Poe.Modulo.Treinamento.AssemblyInfo.cs
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.Treinamento\obj\Debug\net9.0\Poe.Modulo.Treinamento.csproj.CoreCompileInputs.cache
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.Treinamento\obj\Debug\net9.0\Poe.Modulo.Treinamento.dll
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.Treinamento\obj\Debug\net9.0\refint\Poe.Modulo.Treinamento.dll
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.Treinamento\obj\Debug\net9.0\Poe.Modulo.Treinamento.pdb
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.Treinamento\obj\Debug\net9.0\ref\Poe.Modulo.Treinamento.dll

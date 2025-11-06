@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poe.Api", "Poe.Api\Poe.Api.csproj", "{BB0293BF-4651-450B-B21A-8FCF0D78DE98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poe.Modulo.Logs", "Poe.Modulo.Logs\Poe.Modulo.Logs.csproj", "{C966A4CC-49A3-44AA-825E-C500C1CA1AEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poe.Modulo.ProcessMining", "Poe.Modulo.ProcessMining\Poe.Modulo.ProcessMining.csproj", "{C109993E-1AAA-4CA1-8FC3-052C76BCF9D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poe.Modulo.Treinamento", "Poe.Modulo.Treinamento\Poe.Modulo.Treinamento.csproj", "{4D7BEFFE-25E5-465A-AA73-15CC5AEA98BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poe.Domain.Core", "Poe.Domain.Core\Poe.Domain.Core.csproj", "{307460C9-B436-44BF-9F5E-5C3742EC4FD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poe.Infrastructure", "Poe.Infrastructure\Poe.Infrastructure.csproj", "{EF11BD58-0387-442E-B4A8-AAC7812B7A7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB0293BF-4651-450B-B21A-8FCF0D78DE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0293BF-4651-450B-B21A-8FCF0D78DE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0293BF-4651-450B-B21A-8FCF0D78DE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0293BF-4651-450B-B21A-8FCF0D78DE98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C966A4CC-49A3-44AA-825E-C500C1CA1AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C966A4CC-49A3-44AA-825E-C500C1CA1AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C966A4CC-49A3-44AA-825E-C500C1CA1AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C966A4CC-49A3-44AA-825E-C500C1CA1AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C109993E-1AAA-4CA1-8FC3-052C76BCF9D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C109993E-1AAA-4CA1-8FC3-052C76BCF9D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C109993E-1AAA-4CA1-8FC3-052C76BCF9D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C109993E-1AAA-4CA1-8FC3-052C76BCF9D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D7BEFFE-25E5-465A-AA73-15CC5AEA98BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7BEFFE-25E5-465A-AA73-15CC5AEA98BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7BEFFE-25E5-465A-AA73-15CC5AEA98BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7BEFFE-25E5-465A-AA73-15CC5AEA98BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{307460C9-B436-44BF-9F5E-5C3742EC4FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307460C9-B436-44BF-9F5E-5C3742EC4FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307460C9-B436-44BF-9F5E-5C3742EC4FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307460C9-B436-44BF-9F5E-5C3742EC4FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF11BD58-0387-442E-B4A8-AAC7812B7A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF11BD58-0387-442E-B4A8-AAC7812B7A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF11BD58-0387-442E-B4A8-AAC7812B7A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF11BD58-0387-442E-B4A8-AAC7812B7A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

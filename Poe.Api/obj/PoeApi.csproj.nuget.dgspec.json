@@ -1,0 +1,452 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\PoeApi\\PoeApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Domain.Core\\Poe.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Domain.Core\\Poe.Domain.Core.csproj",
+        "projectName": "Poe.Domain.Core",
+        "projectPath": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Domain.Core\\Poe.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\Sindauto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sindauto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Infrastructure\\Poe.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Infrastructure\\Poe.Infrastructure.csproj",
+        "projectName": "Poe.Infrastructure",
+        "projectPath": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Infrastructure\\Poe.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Sindauto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sindauto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.Logs\\Poe.Modulo.Logs.csproj": {
+                "projectPath": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.Logs\\Poe.Modulo.Logs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "EntityFramework6.Npgsql": {
+              "target": "Package",
+              "version": "[6.4.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.Logs\\Poe.Modulo.Logs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.Logs\\Poe.Modulo.Logs.csproj",
+        "projectName": "Poe.Modulo.Logs",
+        "projectPath": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.Logs\\Poe.Modulo.Logs.csproj",
+        "packagesPath": "C:\\Users\\Sindauto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.Logs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sindauto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Domain.Core\\Poe.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Domain.Core\\Poe.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.ProcessMining\\Poe.Modulo.ProcessMining.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.ProcessMining\\Poe.Modulo.ProcessMining.csproj",
+        "projectName": "Poe.Modulo.ProcessMining",
+        "projectPath": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.ProcessMining\\Poe.Modulo.ProcessMining.csproj",
+        "packagesPath": "C:\\Users\\Sindauto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.ProcessMining\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sindauto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.Treinamento\\Poe.Modulo.Treinamento.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.Treinamento\\Poe.Modulo.Treinamento.csproj",
+        "projectName": "Poe.Modulo.Treinamento",
+        "projectPath": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.Treinamento\\Poe.Modulo.Treinamento.csproj",
+        "packagesPath": "C:\\Users\\Sindauto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.Treinamento\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sindauto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\PoeApi\\PoeApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\PoeApi\\PoeApi.csproj",
+        "projectName": "PoeApi",
+        "projectPath": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\PoeApi\\PoeApi.csproj",
+        "packagesPath": "C:\\Users\\Sindauto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\PoeApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sindauto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Infrastructure\\Poe.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Infrastructure\\Poe.Infrastructure.csproj"
+              },
+              "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.Logs\\Poe.Modulo.Logs.csproj": {
+                "projectPath": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.Logs\\Poe.Modulo.Logs.csproj"
+              },
+              "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.ProcessMining\\Poe.Modulo.ProcessMining.csproj": {
+                "projectPath": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.ProcessMining\\Poe.Modulo.ProcessMining.csproj"
+              },
+              "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.Treinamento\\Poe.Modulo.Treinamento.csproj": {
+                "projectPath": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.Treinamento\\Poe.Modulo.Treinamento.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

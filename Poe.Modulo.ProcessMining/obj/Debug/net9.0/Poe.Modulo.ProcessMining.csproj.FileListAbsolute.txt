@@ -1,0 +1,11 @@
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\bin\Debug\net9.0\Poe.Modulo.ProcessMining.deps.json
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\bin\Debug\net9.0\Poe.Modulo.ProcessMining.dll
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\bin\Debug\net9.0\Poe.Modulo.ProcessMining.pdb
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\obj\Debug\net9.0\Poe.Modulo.ProcessMining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\obj\Debug\net9.0\Poe.Modulo.ProcessMining.AssemblyInfoInputs.cache
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\obj\Debug\net9.0\Poe.Modulo.ProcessMining.AssemblyInfo.cs
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\obj\Debug\net9.0\Poe.Modulo.ProcessMining.csproj.CoreCompileInputs.cache
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\obj\Debug\net9.0\Poe.Modulo.ProcessMining.dll
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\obj\Debug\net9.0\refint\Poe.Modulo.ProcessMining.dll
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\obj\Debug\net9.0\Poe.Modulo.ProcessMining.pdb
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\obj\Debug\net9.0\ref\Poe.Modulo.ProcessMining.dll
