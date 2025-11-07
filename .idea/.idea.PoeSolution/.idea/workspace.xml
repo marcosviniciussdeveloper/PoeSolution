@@ -8,7 +8,105 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0d8802d-284d-4501-9ccf-bbb487804573" name="Changes" comment="" />
+    <list default="true" id="e0d8802d-284d-4501-9ccf-bbb487804573" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PoeSolution/.idea/copilot.data.migration.ask.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PoeSolution/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PoeSolution/.idea/copilot.data.migration.edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PoeSolution/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/Poe.Api.sourcelink.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poe.Infrastructure/obj/Debug/net9.0/Poe.Infrastructure.sourcelink.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poe.Modulo.Logs/obj/Debug/net9.0/Poe.Modulo.Logs.sourcelink.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/Interface/IProcessMiningService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/Services/ProcessMiningService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/bin/Debug/net9.0/Poe.Domain.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/bin/Debug/net9.0/Poe.Domain.Core.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/bin/Debug/net9.0/Poe.Modulo.Logs.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/bin/Debug/net9.0/Poe.Modulo.Logs.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/Poe.Modu.F1FB7B35.Up2Date" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/Poe.Modulo.ProcessMining.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/Poe.Modulo.ProcessMining.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PoeSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PoeSolution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Api.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Api.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Api.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Api.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Modulo.Logs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Modulo.Logs.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Modulo.Logs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Modulo.Logs.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Modulo.ProcessMining.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Modulo.ProcessMining.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Modulo.ProcessMining.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/bin/Debug/net9.0/Poe.Modulo.ProcessMining.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/Poe.Api.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/Poe.Api.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/Poe.Api.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/Poe.Api.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/Poe.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/Poe.Api.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/Poe.Api.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/Poe.Api.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/Poe.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/Poe.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/Poe.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/Poe.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/ref/Poe.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/ref/Poe.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/refint/Poe.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/refint/Poe.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/obj/Debug/net9.0/rpswa.dswa.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/obj/Poe.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/obj/Poe.Api.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Api/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Domain.Core/obj/Debug/net9.0/Poe.Domain.Core.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Domain.Core/obj/Debug/net9.0/Poe.Domain.Core.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Domain.Core/obj/Debug/net9.0/Poe.Domain.Core.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Domain.Core/obj/Debug/net9.0/Poe.Domain.Core.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Infrastructure/Repositories/EventRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Infrastructure/Repositories/EventRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Infrastructure/Repositories/IEventRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.Logs/Interface/IEventRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Infrastructure/Repositories/IRepositoryBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.Logs/Interface/IRepositoryBase.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Infrastructure/bin/Debug/net9.0/Poe.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Infrastructure/bin/Debug/net9.0/Poe.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Infrastructure/bin/Debug/net9.0/Poe.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Infrastructure/bin/Debug/net9.0/Poe.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Infrastructure/bin/Debug/net9.0/Poe.Modulo.Logs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Infrastructure/bin/Debug/net9.0/Poe.Modulo.Logs.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Infrastructure/bin/Debug/net9.0/Poe.Modulo.Logs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Infrastructure/bin/Debug/net9.0/Poe.Modulo.Logs.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Infrastructure/obj/Debug/net9.0/Poe.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Infrastructure/obj/Debug/net9.0/Poe.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Infrastructure/obj/Debug/net9.0/Poe.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Infrastructure/obj/Debug/net9.0/Poe.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Infrastructure/obj/Debug/net9.0/Poe.Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Infrastructure/obj/Debug/net9.0/Poe.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Infrastructure/obj/Debug/net9.0/Poe.Infrastructure.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Infrastructure/obj/Debug/net9.0/Poe.Infrastructure.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Infrastructure/obj/Debug/net9.0/Poe.Infrastructure.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Infrastructure/obj/Debug/net9.0/Poe.Infrastructure.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Infrastructure/obj/Debug/net9.0/Poe.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Infrastructure/obj/Debug/net9.0/Poe.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Infrastructure/obj/Debug/net9.0/Poe.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Infrastructure/obj/Debug/net9.0/Poe.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Infrastructure/obj/Debug/net9.0/ref/Poe.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Infrastructure/obj/Debug/net9.0/ref/Poe.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Infrastructure/obj/Debug/net9.0/refint/Poe.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Infrastructure/obj/Debug/net9.0/refint/Poe.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.Logs/bin/Debug/net9.0/Poe.Modulo.Logs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.Logs/bin/Debug/net9.0/Poe.Modulo.Logs.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.Logs/bin/Debug/net9.0/Poe.Modulo.Logs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.Logs/bin/Debug/net9.0/Poe.Modulo.Logs.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.Logs/obj/Debug/net9.0/Poe.Modulo.Logs.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.Logs/obj/Debug/net9.0/Poe.Modulo.Logs.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.Logs/obj/Debug/net9.0/Poe.Modulo.Logs.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.Logs/obj/Debug/net9.0/Poe.Modulo.Logs.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.Logs/obj/Debug/net9.0/Poe.Modulo.Logs.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.Logs/obj/Debug/net9.0/Poe.Modulo.Logs.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.Logs/obj/Debug/net9.0/Poe.Modulo.Logs.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.Logs/obj/Debug/net9.0/Poe.Modulo.Logs.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.Logs/obj/Debug/net9.0/Poe.Modulo.Logs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.Logs/obj/Debug/net9.0/Poe.Modulo.Logs.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.Logs/obj/Debug/net9.0/Poe.Modulo.Logs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.Logs/obj/Debug/net9.0/Poe.Modulo.Logs.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.Logs/obj/Debug/net9.0/ref/Poe.Modulo.Logs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.Logs/obj/Debug/net9.0/ref/Poe.Modulo.Logs.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.Logs/obj/Debug/net9.0/refint/Poe.Modulo.Logs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.Logs/obj/Debug/net9.0/refint/Poe.Modulo.Logs.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/Poe.Modulo.ProcessMining.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/Poe.Modulo.ProcessMining.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/bin/Debug/net9.0/Poe.Modulo.ProcessMining.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/bin/Debug/net9.0/Poe.Modulo.ProcessMining.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/bin/Debug/net9.0/Poe.Modulo.ProcessMining.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/bin/Debug/net9.0/Poe.Modulo.ProcessMining.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/bin/Debug/net9.0/Poe.Modulo.ProcessMining.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/bin/Debug/net9.0/Poe.Modulo.ProcessMining.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/Poe.Modulo.ProcessMining.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/Poe.Modulo.ProcessMining.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/Poe.Modulo.ProcessMining.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/Poe.Modulo.ProcessMining.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/Poe.Modulo.ProcessMining.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/Poe.Modulo.ProcessMining.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/Poe.Modulo.ProcessMining.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/Poe.Modulo.ProcessMining.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/Poe.Modulo.ProcessMining.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/Poe.Modulo.ProcessMining.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/Poe.Modulo.ProcessMining.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/Poe.Modulo.ProcessMining.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/Poe.Modulo.ProcessMining.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/Poe.Modulo.ProcessMining.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/ref/Poe.Modulo.ProcessMining.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/ref/Poe.Modulo.ProcessMining.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/refint/Poe.Modulo.ProcessMining.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Debug/net9.0/refint/Poe.Modulo.ProcessMining.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Poe.Modulo.ProcessMining.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Poe.Modulo.ProcessMining.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Poe.Modulo.ProcessMining.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Poe.Modulo.ProcessMining.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Poe.Modulo.ProcessMining.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/Poe.Modulo.ProcessMining.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.ProcessMining/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.Treinamento/obj/Debug/net9.0/Poe.Modulo.Treinamento.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.Treinamento/obj/Debug/net9.0/Poe.Modulo.Treinamento.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poe.Modulo.Treinamento/obj/Debug/net9.0/Poe.Modulo.Treinamento.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Poe.Modulo.Treinamento/obj/Debug/net9.0/Poe.Modulo.Treinamento.AssemblyInfoInputs.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,21 +115,27 @@
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/b3575a2f41d7c2dbfaa36e866b8a361e11dd7223ff82bc574c1d5d4b7522f735/Future.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Poe.Domain.Core/EntityBaseAbstractions/EntityBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Poe.Infrastructure/Class1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Poe.Infrastructure/Data/PoeDbContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Poe.Infrastructure/Repositories/EventRepository.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Poe.Infrastructure/Repositories/IEventRepository.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Poe.Infrastructure/Repositories/IRepositoryBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Poe.Infrastructure/Repositories/RepositoryBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Poe.Modulo.Logs/Entity/LogEventEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Poe.Modulo.Logs/Interface/IEventRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Poe.Modulo.Logs/Interface/ILogEventService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Poe.Modulo.Logs/Interface/IRepositoryBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Poe.Modulo.Logs/Services/LogEventServices.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Poe.Modulo.ProcessMining/DTOs/BottleneckDTO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Poe.Modulo.ProcessMining/DTOs/MapTheProcess.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Poe.Modulo.ProcessMining/DTOs/NodeActivityDTO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Poe.Modulo.ProcessMining/DTOs/ProcessEdgeDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Poe.Modulo.ProcessMining/DTOs/ProcessMapDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Poe.Modulo.ProcessMining/Interface/IProcessMiningService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Poe.Modulo.ProcessMining/Services/ProcessMiningService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Poe.Modulo.Treinamento/Class1.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
@@ -47,15 +151,18 @@
   &quot;keyToString&quot;: {
     &quot;.NET Launch Settings Profile.PoeApi: http.executor&quot;: &quot;Debug&quot;,
     &quot;.NET Launch Settings Profile.PoeApi: https.executor&quot;: &quot;Run&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -103,7 +210,9 @@
       <workItem from="1762280507780" duration="74000" />
       <workItem from="1762280635993" duration="19522000" />
       <workItem from="1762442793240" duration="4503000" />
-      <workItem from="1762456488755" duration="1588000" />
+      <workItem from="1762456488755" duration="6676000" />
+      <workItem from="1762465527422" duration="1125000" />
+      <workItem from="1762533642317" duration="26000" />
     </task>
     <servers />
   </component>

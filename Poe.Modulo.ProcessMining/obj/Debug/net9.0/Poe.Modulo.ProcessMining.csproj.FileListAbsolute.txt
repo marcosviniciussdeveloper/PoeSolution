@@ -9,3 +9,10 @@ C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\obj\D
 C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\obj\Debug\net9.0\refint\Poe.Modulo.ProcessMining.dll
 C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\obj\Debug\net9.0\Poe.Modulo.ProcessMining.pdb
 C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\obj\Debug\net9.0\ref\Poe.Modulo.ProcessMining.dll
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\obj\Debug\net9.0\Poe.Modulo.ProcessMining.csproj.AssemblyReference.cache
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\obj\Debug\net9.0\Poe.Modulo.ProcessMining.sourcelink.json
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\bin\Debug\net9.0\Poe.Domain.Core.dll
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\bin\Debug\net9.0\Poe.Modulo.Logs.dll
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\bin\Debug\net9.0\Poe.Modulo.Logs.pdb
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\bin\Debug\net9.0\Poe.Domain.Core.pdb
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.ProcessMining\obj\Debug\net9.0\Poe.Modu.F1FB7B35.Up2Date

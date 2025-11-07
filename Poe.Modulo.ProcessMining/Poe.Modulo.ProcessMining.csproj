@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Poe.Modulo.Logs\Poe.Modulo.Logs.csproj" />
+    </ItemGroup>
+
 </Project>

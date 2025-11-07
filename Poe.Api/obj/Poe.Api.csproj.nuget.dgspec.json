@@ -358,7 +358,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.Logs\\Poe.Modulo.Logs.csproj": {
+                "projectPath": "C:\\Users\\Sindauto\\Desktop\\PoeSolution\\PoeSolution\\Poe.Modulo.Logs\\Poe.Modulo.Logs.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

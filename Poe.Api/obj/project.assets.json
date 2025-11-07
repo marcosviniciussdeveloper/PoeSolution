@@ -951,6 +951,9 @@
       "Poe.Modulo.ProcessMining/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Poe.Modulo.Logs": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Poe.Modulo.ProcessMining.dll": {}
         },

@@ -626,6 +626,9 @@
         }
       },
       "Poe.Modulo.ProcessMining/1.0.0": {
+        "dependencies": {
+          "Poe.Modulo.Logs": "1.0.0"
+        },
         "runtime": {
           "Poe.Modulo.ProcessMining.dll": {
             "assemblyVersion": "1.0.0.0",

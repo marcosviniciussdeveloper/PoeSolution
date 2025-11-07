@@ -2,6 +2,8 @@ using Microsoft.AspNetCore.Connections;
 using Microsoft.EntityFrameworkCore;
 using Poe.Infraestructure.Data;
 using Poe.Infraestructure.Repositories;
+using Poe.Modulo.ProcessMining.Interface;
+using Poe.Modulo.ProcessMining.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,6 +22,7 @@ builder.Services.AddDbContext<PoeDbContext>(options =>
     ;
 
 builder.Services.AddSingleton<IEventRepository , EventRepository>();
+builder.Services.AddSingleton<IProcessMiningService , ProcessMiningService>();   
 
 
 app.UseHttpsRedirection();

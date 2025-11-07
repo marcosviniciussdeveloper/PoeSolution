@@ -89,3 +89,4 @@ C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Api\bin\Debug\net9.0\Supab
 C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Api\bin\Debug\net9.0\System.Reactive.dll
 C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Api\bin\Debug\net9.0\Websocket.Client.dll
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Api\obj\Debug\net9.0\Poe.Api.sourcelink.json

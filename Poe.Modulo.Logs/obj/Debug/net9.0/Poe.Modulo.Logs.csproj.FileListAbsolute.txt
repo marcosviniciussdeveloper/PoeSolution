@@ -13,3 +13,4 @@ C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.Logs\obj\Debug\net9
 C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.Logs\obj\Debug\net9.0\refint\Poe.Modulo.Logs.dll
 C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.Logs\obj\Debug\net9.0\Poe.Modulo.Logs.pdb
 C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.Logs\obj\Debug\net9.0\ref\Poe.Modulo.Logs.dll
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Modulo.Logs\obj\Debug\net9.0\Poe.Modulo.Logs.sourcelink.json

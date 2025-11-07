@@ -17,3 +17,4 @@ C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Infrastructure\obj\Debug\n
 C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Infrastructure\obj\Debug\net9.0\Poe.Infrastructure.pdb
 C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Infrastructure\obj\Debug\net9.0\Poe.Infrastructure.genruntimeconfig.cache
 C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Infrastructure\obj\Debug\net9.0\ref\Poe.Infrastructure.dll
+C:\Users\Sindauto\Desktop\PoeSolution\PoeSolution\Poe.Infrastructure\obj\Debug\net9.0\Poe.Infrastructure.sourcelink.json
