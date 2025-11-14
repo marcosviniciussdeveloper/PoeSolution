@@ -2,7 +2,7 @@
 
 public class ProcessEdgeDTO
 {
-    public string OriginTheActity {get; set;}
+    public string OriginTheActivy {get; set;}
     
     public string DestinationTheActity {get; set;}
     
